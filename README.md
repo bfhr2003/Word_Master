@@ -1,1 +1,3 @@
-# Word_Master
+# Word_Master - Game
+
+## AJAX - API
